@@ -43,7 +43,7 @@ Aspiring Software Engineer | Java Developer | Full Stack Learner | ECE Student
 </a>
 
 <!-- Replace with your real LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
