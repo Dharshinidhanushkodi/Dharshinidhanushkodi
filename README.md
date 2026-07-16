@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:181717&height=250&text=Hi%20There!%20I'm%20Dharshini%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0077B5,100:181717&height=220&text=Hi%20There!%20I'm%20Dharshini%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer%20in%20the%20Making&descAlignY=65&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Building+PathPilot+-+AI+Career+Platform;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
@@ -10,7 +10,7 @@
   <a href="https://github.com/Dharshinidhanushkodi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dharshinidhanushkodi01@gmail.com">
@@ -110,15 +110,6 @@ Developed **PathPilot** – AI Career Readiness Platform
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshinidhanushkodi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinidhanushkodi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -131,14 +122,6 @@ Developed **PathPilot** – AI Career Readiness Platform
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshinidhanushkodi&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dharshinidhanushkodi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -157,7 +140,7 @@ Developed **PathPilot** – AI Career Readiness Platform
 <a href="https://github.com/Dharshinidhanushkodi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dharshinidhanushkodi01@gmail.com">
