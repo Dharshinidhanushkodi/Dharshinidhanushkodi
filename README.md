@@ -152,6 +152,6 @@ Developed **PathPilot** – AI Career Readiness Platform
 ⭐ Thanks for visiting my profile! Let's connect, collaborate, and build something amazing together.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:181717,100:0077B5&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4B0082&height=100&section=footer&animation=twinkling"/>
 
 </div>
