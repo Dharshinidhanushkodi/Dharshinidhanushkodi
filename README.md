@@ -1,325 +1,174 @@
-<h1 align="center">Hi 👋, I'm Dharshini Dhanushkodi</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Aspiring Software Engineer | ☕ Java Developer | 🚀 Full Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:181717&height=250&section=header&text=Hi%20There!%20I'm%20Dharshini%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;Building+Projects+%26+Learning+Everyday;Future+Software+Engineer" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Building+PathPilot+-+AI+Career+Platform;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="mailto:dharshinidhanushkodi01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dharshini-red?style=for-the-badge&logo=gmail">
-  </a>
-
   <a href="https://github.com/Dharshinidhanushkodi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <!-- Replace with your LinkedIn -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dharshinidhanushkodi01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-# 👩‍💻 About Me
-
-```java
-public class Dharshini {
-
-    String role = "Aspiring Software Engineer";
-
-    String language = "Java";
-
-    String specialization = "Full Stack Development";
-
-    String college = "V.S.B Engineering College";
-
-    String currentFocus = "Building real-world projects";
-
-    String motto = "Learn → Build → Improve → Repeat";
-}
-```
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🎓 Student Management System
-> Java • JDBC • MySQL
-
-✔ CRUD Operations
-
-✔ Database Connectivity
-
-✔ Console Based Project
-
----
-
-### 🌍 Personal Carbon Footprint Calculator
-
-> Java • SQL
-
-✔ Carbon Emission Calculator
-
-✔ Sustainable Suggestions
-
----
-
-### 🍦 CreamyDreamy
-
-> HTML • CSS • JavaScript
-
-✔ Responsive Website
-
-✔ Modern UI
-
----
-
-### 🤖 PathPilot
-
-AI Career Readiness Platform
-
-✔ Resume Analysis
-
-✔ Skill Gap Analysis
-
-✔ Placement Prediction
-
-✔ AI Recommendations
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshinidhanushkodi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinidhanushkodi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dharshinidhanushkodi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshinidhanushkodi&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dharshinidhanushkodi&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Every expert was once a beginner who refused to quit."**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dharshinidhanushkodi&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" />
-</p>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **B.E. Electronics and Communication Engineering**  
-🏫 V.S.B Engineering College, Karur
-
-💡 Passionate about building real-world software using Java and Web Technologies.
-
-🌱 Currently learning
-- Spring Boot
-- React.js
-- AI & LLM
-- Data Structures & Algorithms
-
-💻 Interested in
-- Software Development
-- Full Stack Development
-- Backend Development
-- Artificial Intelligence
-
-📫 **Email:**  
-**dharshinidhanushkodi01@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/Dharshinidhanushkodi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace with your real LinkedIn URL -->
-<a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+```yaml
+Name: Dharshini Dhanushkodi
+Role:
+  Software Developer | Java Full Stack Developer
+Education:
+  Final Year B.E. Electronics and Communication Engineering
+Current Focus:
+  - Building Full Stack Applications
+  - Developing Java Backend Projects
+  - Solving Real-World Problems
+Currently Learning:
+  - Spring Boot
+  - Data Structures & Algorithms
+  - AI & LLM
+  - System Design Fundamentals
+Interests:
+  - Software Engineering
+  - Backend Development
+  - Artificial Intelligence
+  - Open Source
+Goal:
+  Secure a Software Development Engineer (SDE) role and
+  contribute to building innovative, scalable applications.
+```
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Current Focus
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode&perline=6"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🎓 Student Management System
-- Java
-- JDBC
-- MySQL
-- CRUD Operations
-
----
-
-### 🌍 Personal Carbon Footprint Calculator
-
-- Java
-- SQL
-- Sustainable Living Suggestions
-
----
-
-### 🍦 CreamyDreamy
-
-Responsive Ice Cream Shop Website
-
-**Tech Used**
-- HTML
-- CSS
-- JavaScript
-
----
-
-### 🤖 Disruption Shield Coordinator
-
-Generative AI Hackathon Project
-
-- HTML
-- CSS
-- JavaScript
-- AI Concepts
+- ☕ Strengthening Java & Spring Boot development
+- 🌐 Building scalable Full Stack applications
+- 🧩 Sharpening problem-solving through DSA
+- 💼 Preparing for Software Engineering opportunities
 
 ---
 
 ## 🏆 Achievements
 
-🥇 First Prize - Electronics Club Quiz
+🥈 **2nd Prize** — Paper Presentation on **"FinFET – The Future of Transistors"**
 
-🥈 Second Prize - Paper Presentation
+📜 **Published Patent**
+Smart Sensor-Based Telegram Bot with Blockchain-Integrated Real-Time Monitoring and Automation
 
-📜 Published Patent
+🥋 **Karate Champion**
+Won multiple Gold & Silver medals at District and Zonal level competitions.
 
-🥋 Multiple Gold & Silver Medals in Karate
+🥇 **First Prize**
+Electronics Club Technical Quiz Competition
+
+🚀 **Gen AI Hackathon**
+Developed **PathPilot** – AI Career Readiness Platform
 
 ---
 
-# 📊 GitHub Statistics
+## 📂 Featured Projects
+
+| 🚀 Project | 📖 Description | 💻 Tech Stack |
+|------------|---------------|---------------|
+| 🎓 Student Management System | A CRUD application to efficiently manage student records. | Java • JDBC • MySQL |
+| 🌍 Personal Carbon Footprint Calculator | Calculates carbon emissions and promotes sustainable living. | Java • SQL |
+| 🍦 CreamyDreamy | Responsive ice cream website with a modern user experience. | HTML • CSS • JavaScript |
+| 🤖 PathPilot | AI-powered career readiness platform for students. | Java • Spring Boot • MySQL • HTML • CSS • JavaScript |
+
+---
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| ☕ Language | Java |
+| 🌐 Frontend | HTML5 • CSS3 • JavaScript |
+| ⚙️ Backend | Spring Boot *(Learning)* |
+| 🗄️ Database | MySQL • MongoDB |
+| 🔧 Tools | Git • GitHub • VS Code |
+| 📚 Currently Learning | Spring Boot • REST APIs • Full Stack Development |
+
+---
+
+## 🛠️ Technologies I Work With
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,spring,mysql,mongodb,git,github,vscode&perline=5"/>
+</p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshinidhanushkodi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinidhanushkodi&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshinidhanushkodi&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Dharshinidhanushkodi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🛠 Tools
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshinidhanushkodi&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharshinidhanushkodi&theme=tokyo-night)](https://github.com/Dharshinidhanushkodi)
-
----
+## 🏅 GitHub Trophies
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dharshinidhanushkodi&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Dharshinidhanushkodi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
 
-<h3 align="center">
+## 💬 Developer Quote
 
-✨ Thanks for visiting my GitHub Profile! ✨
+> **"Every project I build, every bug I fix, and every concept I learn brings me one step closer to becoming the Software Engineer I aspire to be."** 🚀
+>
+> *"Learning today. Building tomorrow. Growing every day."*
 
-</h3>
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://github.com/Dharshinidhanushkodi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dharshinidhanushkodi01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Let's connect, collaborate, and build something amazing together.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0077B5&height=120&section=footer"/>
+
+</div>
