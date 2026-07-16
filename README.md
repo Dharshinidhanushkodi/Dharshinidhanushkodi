@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0077B5,100:181717&height=220&text=Hi%20There!%20I'm%20Dharshini%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer%20in%20the%20Making&descAlignY=65&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&text=Hi%20There!%20I'm%20Dharshini%20👋&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer%20in%20the%20Making&descAlignY=65&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Building+PathPilot+-+AI+Career+Platform;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
@@ -10,7 +10,7 @@
   <a href="https://github.com/Dharshinidhanushkodi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dharshinidhanushkodi01@gmail.com">
@@ -140,7 +140,7 @@ Developed **PathPilot** – AI Career Readiness Platform
 <a href="https://github.com/Dharshinidhanushkodi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/dharshini-dhanushkodi-828986336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dharshinidhanushkodi01@gmail.com">
